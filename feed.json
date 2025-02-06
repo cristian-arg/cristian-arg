@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Mod Hole",
+    "description": "",
+    "home_page_url": "https://github.com/cristian-arg/cristian-arg",
+    "feed_url": "https://github.com/cristian-arg/cristian-arg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cristian"
+    },
+    "items": [
+    ]
+}
